@@ -28,7 +28,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/><br><hr/>
 
 ### School Repos:
-#### <a href="https://github.com/Joshrobertson023/Data-Structures-Algorithms" target="_blank">CS 227 -- Data Structures & Algorithms</a>
+#### <a href="https://github.com/Joshrobertson023/Data-Structures-Algorithms" target="_blank">CS 227 -- Data Structures & Algorithms</a> (Look at "program-code" folder)
 ### Personal Repos:
 #### <a href="https://github.com/Joshrobertson023/new-life-cancer-support" target="_blank">New Life Cancer Support</a>
 #### <a href="https://github.com/Joshrobertson023/josh-robertson" target="_blank">Josh Robertson</a>
