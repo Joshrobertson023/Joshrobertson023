@@ -7,8 +7,8 @@
 #### <img alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/><a href="https://www.linkedin.com/in/josh-robertson-b60625264/" style="margin-left:5px;" target="_blank">My LinkedIn</a><hr />
 
 ### Currently working on:
-**`B.S. in Computing -- Cybersecurity Concetration at Pensacola Christian College (junior year)`**<br>
-**`HackTheBox SOC Analyst path`**<br>
+**`B.S. in Computing -- Cybersecurity Concetration at Pensacola Christian College (junior year)`**<br><br>
+**`HTB Academy SOC Analyst path`**<br><br>
 **`CompTIA Security+ (expected by end of Spring semester)`**<hr />
 
 ### Past Experience:
