@@ -8,8 +8,8 @@
 
 ### Currently working on:
 **`B.S. in Computing -- Cybersecurity Concetration at Pensacola Christian College (junior year)`**<br><br>
-**`HTB Academy SOC Analyst path`**<br><br>
-**`CompTIA Security+ (expected by end of Spring semester)`**<hr />
+**`TryHackMe SOC Analyst I path`**<br><br>
+**`CompTIA Security+ (expected by Summer of 2024)`**<hr />
 
 ### Past Experience:
 **`Web Development (Oct 2023 - Dec 2023)`**
@@ -23,6 +23,7 @@
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br><br>
 
 ### School Repos:
+#### <a href="https://github.com/Joshrobertson023/cs-246" target="_blank">CS 246 -- Object-Oriented Programming</a>
 #### <a href="https://github.com/Joshrobertson023/Data-Structures-Algorithms" target="_blank">CS 227 -- Data Structures & Algorithms</a> (Look at "program-code" folder)
 ### Personal Repos:
 #### <a href="https://github.com/Joshrobertson023/new-life-cancer-support" target="_blank">New Life Cancer Support</a>
