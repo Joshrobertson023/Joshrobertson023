@@ -8,7 +8,6 @@
 
 ### Currently working on:
 **`B.S. in Computing -- Cybersecurity Concetration at Pensacola Christian College (junior year)`**<br><br>
-**`TryHackMe SOC Analyst I path`**<br><br>
 **`CompTIA Security+ (expected by Summer of 2024)`**<hr />
 
 ### Past Experience:
@@ -16,12 +15,10 @@
 ####  - Self-taught
 ####  - Developed my personal website and a website for a cancer support group from scratch --> <a href="https://nlcsupportgroup.com/" target="_blank">nlcsupportgroup.com</a><hr />
 
-### Scripting / Programming Languages:
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg"/>
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br><br>
+### Scripting / Programming Languages:<br>
+C, C++**<br>
+JavaScript<br>
+Bash<br>
 
 ### School Repos:
 #### <a href="https://github.com/Joshrobertson023/cs-246" target="_blank">CS 246 -- Object-Oriented Programming</a>
