@@ -4,7 +4,7 @@
 
 <img width="1558" height="652" alt="image" src="https://github.com/user-attachments/assets/8d64815c-7e6c-45f9-9b76-647559264184" />
 
-A Wordle clone written in C# and XAML as a WPF application with the Avalonia framework (for cross-platform). This was the final project for my college class ".NET Programming". I used an Oracle database to have a leaderboard.
+A Wordle clone written in C# and XAML as a Avalonia application (for cross-platform). This was the final project for my college class ".NET Programming". I used an Oracle database to have a leaderboard.
 This was also my first time making an API and figuring out how to set up a database connected to the API and where to host in in the real-world.
 This project also exercised my logical thinking figuring out how to make the core Wordle game to work just like the original.
 Client-side repository: https://github.com/Joshrobertson023/WordRiddleFresh
