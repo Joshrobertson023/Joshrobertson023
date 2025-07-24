@@ -1,8 +1,4 @@
-# Josh Robertson
-
-**`Informaton Technology Student at Pensacola Christian College`**
-
-My major projects
+# My Major Projects
 
 # Word Riddle
 
