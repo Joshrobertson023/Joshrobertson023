@@ -27,5 +27,5 @@ API repository: https://github.com/Joshrobertson023/WordRiddleAPI
 
 Early on in my college career I decided to learn about web development since I wouldn't learn that at college. I learned HTML, CSS, and JavaScript.
 I used what I learned in my class "Data Structures & Algorithms" to make the search feature for the site in JavaScript.
-The site was written in plain HTML, CSS, and JavaScript.
+The whole site was written in plain HTML, CSS, and JavaScript and is hosted on Github.
 Here is the live site: https://joshrobertson023.github.io/josh-robertson/
